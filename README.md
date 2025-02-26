@@ -7,7 +7,7 @@ I believe in pushing the boundaries of technology while ensuring a secure and cr
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amit_kasbe_23)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amit_kasbe_23)
 
 ---
 
@@ -48,8 +48,8 @@ I don’t use Python to follow rules—I use it to **rewrite them**. Whether it'
 ---
 
 ### 🤖 AI Projects So Far:  
-1. **Astra Animations Humanoid**: Breathing life into Astra Comics with animation and manga-level artistry. This humanoid isn’t just an artist—it’s an innovator.  
-2. **'useless' (Useful Life Easy Software System)**: My personal AI assistant, blending GPT-3.5’s brainpower with a touch of humor and utility.  
+1. **Astra Animations AI**: Breathing life into Astra Comics with animation and manga-level artistry. This AI isn’t just an artist—it’s an innovator.  
+2. **'useless v1' (Useful Life Easy Software System)**: My personal AI assistant, blending GPT-3.5’s brainpower with a touch of humor and utility.  
 3. **SS7 Testing Module**: Using AI-driven insights to identify telecom vulnerabilities with surgical precision.  
 
 #### **4th Project (Coming Soon)**:  
