@@ -6,85 +6,81 @@ I believe in pushing the boundaries of technology while ensuring a secure and cr
 
 ---
 
-## 🌟 My Innovations and Projects:
-### 🔒 **Cybersecurity Projects**:
-1. **E-Ghosts**:  
-   - A cybersecurity team I proudly lead with a mission to combat cyberterrorism, safeguard networks, and mitigate black hat hacking threats.  
-   - We focus on developing advanced penetration testing tools, exploring vulnerabilities, and building secure systems.  
-
-2. **Foster DoS Attack Tool**:  
-   - A tool designed for simulating Denial of Service (DoS) attacks to evaluate network resilience.  
-   - Built with a simple interface, this tool is ideal for controlled penetration testing environments.  
-
-3. **SS7 SMS Intercept Module**:  
-   - An advanced module for authorized telecom testing, focusing on identifying vulnerabilities in SS7 protocol systems.  
-
-4. **Wi-Fi Firewall System**:  
-   - A powerful and custom firewall to protect home and LAN networks from unauthorized access and potential threats.  
-   - Includes real-time attack monitoring and Telegram bot notifications for instant alerts.  
-
-5. **Payload Encoder and Binder**:  
-   - A highly sophisticated script for encoding, binding, and executing payloads seamlessly without errors.  
-
----
-
-### 🎨 **Creative Projects**:
-1. **Astra Comics**:  
-   - My very own comic book company where imagination meets innovation!  
-   - Focused on creating professional-grade **manga, comics, and animations**, Astra Comics is designed to inspire creativity and engage readers with immersive storytelling.  
-
-2. **Astra Animations AI**:  
-   - A next-generation humanoid designed to create high-quality animations, professional comics, and manga for Astra Comics.  
-   - Features a near-human personality, making it an ideal creative partner for animation production.  
-   - Astra Animations Humanoid isn’t just an AI—it’s a visionary artist, breathing life into stories and characters with unmatched precision and creativity.  
-
----
-
-## 🌐 Connect With Me:
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amit_kasbe_23)  
 
 ---
 
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)  
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)  
+# 💻 Tech Stack:  
+### 🚀 Programming Languages:  
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=%23FFDD54)  
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=%23000000)  
+
+### 📊 Databases:  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)  
+
+### 🖥️ Frontend Development:  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
+
+### ⚙️ Backend & Tools:  
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=%23FFDD54)  
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)  
+
+### 🌐 Deployment & DevOps:  
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat&logo=netlify&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
+
 
 ---
 
-## 🛠 Tools and Platforms:
-- **Burp Suite** (Community Edition) for vulnerability testing.  
-- **Kali Linux** for ethical hacking and penetration testing.  
-- **Windows Subsystem for Linux (WSL)** to leverage Kali Linux tools on Windows.  
-- **YateBTS and OpenBSC** for telecom testing environments.  
-- Advanced APIs like **Number Verification API (Apilayer)** and **Google Maps Geocoding API**.  
+## 🐍 Python: My Weapon of Choice  
+Python isn't just a programming language for me; it's my **Excalibur** 🗡️ in the battlefield of technology.  
+- I’ve already conquered **3 AI projects**, and my **4th AI creation is in the works**—soon to break the limits of what’s possible.  
+- When I write Python, I don’t just code; I craft masterpieces that are sleek, efficient, and, let’s be honest, sometimes downright overpowered.  
+
+### **Badass Fact**:  
+I don’t use Python to follow rules—I use it to **rewrite them**. Whether it's training an AI, building tools for ethical hacking, or creating futuristic solutions, Python bends to my will like a loyal warrior.  
 
 ---
 
-## 📊 GitHub Stats:
+### 🤖 AI Projects So Far:  
+1. **Astra Animations Humanoid**: Breathing life into Astra Comics with animation and manga-level artistry. This humanoid isn’t just an artist—it’s an innovator.  
+2. **'useless' (Useful Life Easy Software System)**: My personal AI assistant, blending GPT-3.5’s brainpower with a touch of humor and utility.  
+3. **SS7 Testing Module**: Using AI-driven insights to identify telecom vulnerabilities with surgical precision.  
+
+#### **4th Project (Coming Soon)**:  
+A **game-changer AI** for the cybersecurity world—because why settle for good when you can aim for legendary?  
+
+---
+
+### 💬 My Python Mantra:  
+"Python may be interpreted, but my code always makes an impact."  
+"Where others see 'errors,' I see challenges begging to be crushed."  
+
+---
+
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Lucifer-0217&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lucifer-0217&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer-0217&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer-0217&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 ---
 
-## 🏆 Achievements:
-- **CEH Certified** and currently pursuing **OSCP** certification.  
-- Worked with renowned organizations like the **Mumbai Cyber Cell**, the **Enforcement Directorate (ED)**, and the **Maharashtra Government**.  
-- Mentored IITians and aspiring cybersecurity professionals, sharing expertise in ethical hacking and advanced cybersecurity techniques.  
-- Developed advanced hacking tools and scripts for authorized penetration testing and security assessments.  
+### 🚀 Astra Comics & E-Ghosts  
+I am the proud creator of **Astra Comics**, where imagination comes alive in the form of professionally crafted manga, comics, and animations. To fuel this vision, I built **Astra Animations Humanoid**—a humanoid that designs, animates, and narrates with cutting-edge precision and creativity.  
 
----
-
-## 🌟 Fun Facts:
-- I enjoy blending creativity and technology, whether it’s designing tools for ethical hacking or creating visually stunning comics and animations.  
-- Currently working on **INDRA**, a futuristic programming language inspired by Sanskrit, tailored for hacking and cybersecurity.  
-- Leading innovative AI and humanoid projects to revolutionize both the cybersecurity and creative industries.  
+As part of **E-Ghosts**, my mission is to:  
+- **Protect the digital realm** from cyber threats.  
+- Build futuristic hacking tools that are both ethical and innovative.  
+- Train and inspire the next generation of cybersecurity warriors.  
 
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
