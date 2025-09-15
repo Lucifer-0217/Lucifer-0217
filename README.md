@@ -22,7 +22,7 @@ I love diving into vulnerabilities, building tools, and pushing limits.
 ---
 
 ## 📊 GitHub Stats
-![lucifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=zero-spectre&show_icons=true&theme=radical)
+![lucifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucifer&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zero-spectre&layout=compact&theme=radical)
   
