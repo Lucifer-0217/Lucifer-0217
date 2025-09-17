@@ -65,8 +65,7 @@ A *game-changer AI* for the cybersecurity world—because why settle for good wh
 ---
 
 # 📊 GitHub Stats:
-![]![](https://your-vercel-app.vercel.app/api?username=Lucifer-0217&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
+![](https://github-readme-stats.vercel.app/api?username=Lucifer-0217&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lucifer-0217&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer-0217&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
