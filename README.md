@@ -72,7 +72,7 @@ A *game-changer AI* for the cybersecurity world—because why settle for good wh
 ---
 
 ### 🚀 Astra Comics & E-Ghosts  
-I am the proud creator of *Astra Comics, where imagination comes alive in the form of professionally crafted manga, comics, and animations. To fuel this vision, I built* *Astra Animations AI*—a AI that designs, animates, and narrates with cutting-edge precision and creativity.  
+I am the proud creator of *Astra Comics, where imagination comes alive in the form of professionally crafted manga, comics, and animations. To fuel this vision, I built **Astra Animations AI*—a AI that designs, animates, and narrates with cutting-edge precision and creativity.  
 
 As part of *E-Ghosts*, my mission is to:  
 - *Protect the digital realm* from cyber threats.  
