@@ -1,8 +1,10 @@
 # 💫 About Me:
 ### Hey there! I’m *Amit Kasbe*  
-I’m a cybersecurity professional, tech innovator, and creator with a passion for storytelling and digital security. Whether it’s building tools for ethical hacking, crafting engaging comics through my company *Astra Comics*, or mentoring aspiring tech enthusiasts, I thrive on bringing impactful ideas to life.  
+I’m a tech innovator, cybersecurity professional, and creator specializing in **Quantum Mechanics AI, Ethical Hacking, Web Development, and AI-driven systems**. I thrive on building futuristic technologies while crafting immersive digital experiences.  
 
-I believe in pushing the boundaries of technology while ensuring a secure and creative environment for everyone. 🚀  
+From designing **AI-powered criminal analysis systems** to developing **telecom security tools**, creating **manga and animation platforms**, and mentoring aspiring tech enthusiasts, I aim to merge **innovation, security, and creativity**.  
+
+I believe in **pushing the boundaries of technology** while ensuring a **secure and inspiring environment** for everyone. 🚀  
 
 ---
 
@@ -29,38 +31,66 @@ I believe in pushing the boundaries of technology while ensuring a secure and cr
 
 ### ⚙ Backend & Tools:  
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=%23FFDD54)  
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)   
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)    
 
 ### 🌐 Deployment & DevOps:  
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat&logo=netlify&logoColor=white)   
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat&logo=netlify&logoColor=white)    
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
 
+---
+
+# 🚀 Projects & Creations  
+
+### 🔐 Cybersecurity & AI  
+
+- **[Trinetra](https://github.com/your-username/trinetra)**  
+  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=%23FFDD54) ![AI](https://img.shields.io/badge/AI-%23FF6F61.svg)  
+  - AI-Driven SS7 & SCTP Security Toolkit  
+  - SCTP reimplementation with chunk-level parsing (INIT, DATA, SACK, etc.)  
+  - Detects IMSI catching, MAP-FORWARD-SHORT-MESSAGE abuse, rogue HLR lookups  
+  - Works in live-sniffing & offline forensic PCAP workflows  
+  - Telecom surveillance & critical infrastructure defense  
+
+- **[Drishti Defence System v1](https://github.com/your-username/drishti)**  
+  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=%23FFDD54) ![Security](https://img.shields.io/badge/Security-%230077B5.svg)  
+  - Cyber defence framework with honeypots, intrusion detection & real-time alerts  
+  - Honeypots: SSH, HTTP, SMTP, FTP decoys  
+  - Detects ICMP floods, TCP SYN scans, suspicious packets  
+  - GeoIP lookups + Telegram/Discord alerts  
+  - Auto-blocks malicious IPs, Flask dashboard for live monitoring  
+
+- **[IVY (Neural Criminal Analysis AI)](https://github.com/your-username/ivy)**  
+  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=%23FFDD54) ![AI](https://img.shields.io/badge/AI-%23FF6F61.svg)  
+  - Financial-crime detection system for fraud, scams & money laundering  
+  - Neural network-based transaction anomaly detection  
+  - Supports enforcement agencies & financial institutions  
+
+### 🎨 Creativity & Storytelling  
+
+- **[Astra Comics](https://github.com/your-username/astra-comics)** ![Comics](https://img.shields.io/badge/Comics-%23FF4500.svg)  
+  - Original manga & comics creation platform  
+
+- **[Astra Animations AI](https://github.com/your-username/astra-animations-ai)** ![AI](https://img.shields.io/badge/AI-%23FF6F61.svg)  
+  - AI-powered animator bringing Astra Comics to life  
+
+### 🛠 Other AI Projects  
+
+- **[useless v1](https://github.com/your-username/useless-v1)** ![AI](https://img.shields.io/badge/AI-%23FF6F61.svg)  
+  - Witty personal AI assistant  
+
+- **Next-gen Cybersecurity AI (Coming Soon)** ![AI](https://img.shields.io/badge/AI-%23FF6F61.svg)  
+  - Advanced AI for next-level cybersecurity dominance  
 
 ---
 
 ## 🐍 Python: My Weapon of Choice  
-Python isn't just a programming language for me; it's my *Excalibur* 🗡 in the battlefield of technology.  
-- I’ve already conquered *3 AI projects, and my **4th AI creation is in the works*—soon to break the limits of what’s possible.  
-- When I write Python, I don’t just code; I craft masterpieces that are sleek, efficient, and, let’s be honest, sometimes downright overpowered.  
+Python isn't just a programming language for me; it's my *Excalibur* 🗡.  
 
-### *Badass Fact*:  
-I don’t use Python to follow rules—I use it to *rewrite them*. Whether it's training an AI, building tools for ethical hacking, or creating futuristic solutions, Python bends to my will like a loyal warrior.  
+- Conquered **3 AI projects**, and the **4th is on the way**  
+- I don’t just write Python code—I *bend reality with it*  
 
----
-
-### 🤖 AI Projects So Far:  
-1. *Astra Animations AI*: Breathing life into Astra Comics with animation and manga-level artistry. This AI isn’t just an artist—it’s an innovator.  
-2. *'useless v1' (Useful Life Easy Software System)*: My personal AI assistant, blending GPT-3.5’s brainpower with a touch of humor and utility.  
-3. *SS7 Testing Module*: Using AI-driven insights to identify telecom vulnerabilities with surgical precision.  
-
-#### *4th Project (Coming Soon)*:  
-A *game-changer AI* for the cybersecurity world—because why settle for good when you can aim for legendary?  
-
----
-
-### 💬 My Python Mantra:  
-"Python may be interpreted, but my code always makes an impact."  
-"Where others see 'errors,' I see challenges begging to be crushed."  
+**My Mantra:**  
+> "Python may be interpreted, but my code always makes an impact."  
 
 ---
 
@@ -72,12 +102,11 @@ A *game-changer AI* for the cybersecurity world—because why settle for good wh
 ---
 
 ### 🚀 Astra Comics & E-Ghosts  
-I am the proud creator of *Astra Comics, where imagination comes alive in the form of professionally crafted manga, comics, and animations. To fuel this vision, I built **Astra Animations AI*—a AI that designs, animates, and narrates with cutting-edge precision and creativity.  
-
-As part of *E-Ghosts*, my mission is to:  
-- *Protect the digital realm* from cyber threats.  
-- Build futuristic hacking tools that are both ethical and innovative.  
-- Train and inspire the next generation of cybersecurity warriors.  
+Creator of *Astra Comics* & *Astra Animations AI*  
+Founder of *E-Ghosts*, with the mission to:  
+- Protect the digital realm from cyber threats  
+- Build futuristic hacking tools  
+- Inspire the next generation of cybersecurity warriors  
 
 ---
 
