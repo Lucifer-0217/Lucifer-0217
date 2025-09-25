@@ -10,7 +10,7 @@ I believe in **pushing the boundaries of technology** while ensuring a **secure 
 
 ## 🌐 Contact & Socials:
 **Mumbai, Maharashtra, India**  
-☎️ +91 9322563493 | ✉️ amitaksbe2709@gmail.com  
+☎️ +91 9322563493 | ✉️ amitkasbe2709@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/amit-kasbe-a85896235/) | [GitHub](https://github.com/Lucifer-0217) | [Instagram](https://instagram.com/amit_kasbe_23)  
 
 ---
