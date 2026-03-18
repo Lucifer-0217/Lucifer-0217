@@ -1,149 +1,156 @@
-# 💫 About Me:
-### Hey there! I’m *Amit Kasbe*  
-I’m a tech innovator, cybersecurity professional, and creator specializing in **Quantum Mechanics AI, Ethical Hacking, Web Development, and AI-driven systems**. I thrive on building futuristic technologies while crafting immersive digital experiences.  
+<!-- ================= HEADER ================= -->
 
-From designing **AI-powered criminal analysis systems**, **custom Wi-Fi firewalls**, and **telecom security tools**, to creating **manga and animation platforms**, and mentoring aspiring tech enthusiasts, I aim to merge **innovation, security, and creativity**.  
+<h1 align="center">Amit Kasbe</h1>
+<h3 align="center">Cybersecurity Engineer • AI Developer • Technology Builder</h3>
 
-I believe in **pushing the boundaries of technology** while ensuring a **secure and inspiring environment** for everyone. 🚀  
-
----
-
-## 🌐 Contact & Socials:
-**Mumbai, Maharashtra, India**  
-☎️ +91 9322563493 | ✉️ amitkasbe2709@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/amit-kasbe-a85896235/) | [GitHub](https://github.com/Lucifer-0217) | [Instagram](https://instagram.com/amit_kasbe_23)  
+<p align="center">
+Building systems at the intersection of security, intelligence, and creation
+</p>
 
 ---
 
-### **Professional Summary**  
-Innovative cybersecurity expert and AI developer with a proven track record in building cutting-edge tools and ethical hacking projects. Developed a **custom Wi-Fi firewall for real-time threat monitoring**, **SS7 tools for telecom security**, and AI-powered platforms like **Astra Animations AI** and **useless AI**. Passionate about enhancing **security, creativity, and user interaction** through technology.  
+<!-- ================= BADGES ================= -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lucifer-0217&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Lucifer-0217?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/Lucifer-0217?label=Total%20Stars&style=flat" />
+</p>
 
 ---
 
-### **Key Skills**
-- Cybersecurity & Network Security Tools  
-- Firewall Development & Wi-Fi Threat Monitoring  
-- Artificial Intelligence (AI) & Neural Networks  
-- Vulnerability Assessment & Ethical Hacking  
-- Programming: Python, Bash  
-- Tools: Burp Suite, Metasploit, Wireshark  
-- APIs: Google Maps API, Telegram Bot API  
+<!-- ================= ABOUT ================= -->
+
+## About
+
+I am a cybersecurity-focused developer and AI builder working on systems across **network security, intelligent analysis, and AI-driven platforms**.
+
+My work focuses on:
+
+- Designing **real-time threat monitoring systems**
+- Building **AI-assisted analysis tools**
+- Developing **protocol-level security research frameworks**
+- Exploring **AI-powered creative technologies**
+
+I aim to build systems that are **technically strong, scalable, and aligned with real-world applications**.
 
 ---
 
-# 💻 Tech Stack:  
-### 🚀 Programming Languages:  
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=%23FFDD54)  
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=%23000000)  
+<!-- ================= CONTACT ================= -->
 
-### 📊 Databases:  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)  
+## Contact
 
-### 🖥 Frontend Development:  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
+<p>
+📍 Mumbai, India <br>
+📧 amitkasbe2709@gmail.com <br>
+📱 +91 9322563493
+</p>
 
-### ⚙ Backend & Tools:  
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=%23FFDD54)  
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)  
-
-### 🌐 Deployment & DevOps:  
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat&logo=netlify&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
+<p>
+<a href="https://www.linkedin.com/in/amit-kasbe-a85896235/">LinkedIn</a> •
+<a href="https://github.com/Lucifer-0217">GitHub</a> •
+<a href="https://instagram.com/amit_kasbe_23">Instagram</a>
+</p>
 
 ---
 
-# 🚀 Projects & Creations  
+<!-- ================= TECH STACK ================= -->
 
-### 🔐 Cybersecurity & AI  
+## Tech Stack
 
-- **[Wi-Fi Network Firewall](https://github.com/your-username/wifi-firewall)**  
-  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=%23FFDD54) ![Security](https://img.shields.io/badge/Security-%230077B5.svg)  
-  - Real-time Wi-Fi firewall for monitoring and securing wireless networks  
-  - Locks attacker IPs & gathers geolocation and device details  
-  - Telegram Bot integration for instant notifications  
-  - Continuous improvements for robust security  
-
-- **[Drishti Defence System v1](https://github.com/your-username/drishti)**  
-  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=%23FFDD54) ![Security](https://img.shields.io/badge/Security-%230077B5.svg)  
-  - State-of-the-art **cyber defence framework** with honeypots, intrusion detection & real-time alerts  
-  - Honeypots: SSH, HTTP, SMTP, FTP decoys for attacker behavior analysis  
-  - Detects ICMP floods, TCP SYN scans, suspicious packets  
-  - GeoIP lookups + Telegram/Discord notifications  
-  - Auto-blocks malicious IPs & provides Flask-based live monitoring  
-
-- **[Trinetra (AI-Driven SS7 & SCTP Security Toolkit)](https://github.com/your-username/trinetra)**  
-  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=%23FFDD54) ![AI](https://img.shields.io/badge/AI-%23FF6F61.svg)  
-  - Telecom protocol surveillance and SS7 security  
-  - SCTP reimplementation with full chunk-level parsing (INIT, DATA, SACK, etc.)  
-  - Detects IMSI catching, MAP-FORWARD-SHORT-MESSAGE abuse, rogue HLR lookups  
-  - Supports live-sniffing & offline PCAP workflows  
-
-- **[IVY (Neural Criminal Analysis AI)](https://github.com/your-username/ivy)**  
-  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=%23FFDD54) ![AI](https://img.shields.io/badge/AI-%23FF6F61.svg)  
-  - Financial-crime detection system for fraud, scams & money laundering  
-  - Neural network-based transaction anomaly detection  
-  - Assists enforcement agencies & financial institutions  
-
-### 🎨 Creativity & Storytelling  
-
-- **[Astra Comics](https://github.com/your-username/astra-comics)** ![Comics](https://img.shields.io/badge/Comics-%23FF4500.svg)  
-  - Original manga & comics creation platform  
-
-- **[Astra Animations AI](https://github.com/your-username/astra-animations-ai)** ![AI](https://img.shields.io/badge/AI-%23FF6F61.svg)  
-  - AI-powered animator bringing Astra Comics to life  
-
-### 🛠 Other AI Projects  
-
-- **[useless v1](https://github.com/your-username/useless-v1)** ![AI](https://img.shields.io/badge/AI-%23FF6F61.svg)  
-  - Witty personal AI assistant  
-
-- **Next-gen Cybersecurity AI (Coming Soon)** ![AI](https://img.shields.io/badge/AI-%23FF6F61.svg)  
-  - Advanced AI for next-level cybersecurity dominance  
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,flask,mysql,sqlite,git" />
+</p>
 
 ---
 
-## 🐍 Python: My Weapon of Choice  
-Python isn't just a programming language for me; it's my *Excalibur* 🗡.  
+<!-- ================= FEATURED PROJECTS ================= -->
 
-- Conquered **3 AI projects**, and the **4th is on the way**  
-- I don’t just write Python code—I *bend reality with it*  
+## Featured Projects
 
-**My Mantra:**  
-> "Python may be interpreted, but my code always makes an impact."  
+### Wi-Fi Network Firewall
+Real-time wireless network monitoring and defense system.
 
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lucifer-0217&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lucifer-0217&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer-0217&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+- Detects unauthorized access and suspicious activity  
+- Captures network-level insights  
+- Designed for continuous monitoring  
 
 ---
 
-### 🚀 Astra Comics & E-Ghosts  
-Creator of *Astra Comics* & *Astra Animations AI*  
-Founder of *E-Ghosts*, with the mission to:  
-- Protect the digital realm from cyber threats  
-- Build futuristic hacking tools  
-- Inspire the next generation of cybersecurity warriors  
+### Drishti Defence System
+Cyber defense framework with monitoring and intrusion detection.
+
+- Multi-service honeypot architecture  
+- Suspicious traffic detection  
+- Real-time alerting system  
 
 ---
 
-### **Certifications**
+### Trinetra
+Telecom protocol analysis and security research toolkit.
+
+- Focus on SS7 and SCTP workflows  
+- Packet-level inspection  
+- Designed for research and analysis  
+
+---
+
+### IVY – Neural Criminal Analysis AI
+AI system for detecting suspicious financial patterns.
+
+- Transaction analysis  
+- Pattern recognition  
+- Scalable intelligence workflows  
+
+---
+
+### Astra Animations AI
+AI-driven visual storytelling and comic generation system.
+
+- Multi-panel generation  
+- Character consistency  
+- Cinematic layout experimentation  
+
+---
+
+<!-- ================= STATS ================= -->
+
+## GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucifer-0217&show_icons=true&theme=default" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucifer-0217&theme=default" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer-0217&layout=compact" height="150" />
+</p>
+
+---
+
+<!-- ================= FOCUS ================= -->
+
+## Focus Areas
+
+- Cybersecurity infrastructure  
+- AI-assisted security systems  
+- Network & protocol analysis  
+- Backend systems and automation  
+- AI-driven creative platforms  
+
+---
+
+<!-- ================= CERTIFICATIONS ================= -->
+
+## Certifications
+
 - Certified Ethical Hacker (CEH)  
-- Pursuing Offensive Security Certified Professional (OSCP)  
+- Offensive Security Certified Professional (OSCP) – In Progress  
 
 ---
 
-### **Achievements**
-- Built Wi-Fi Firewall and Drishti Defence System for real-time threat monitoring  
-- Developed Trinetra for SS7 security testing and IVY for financial crime detection  
-- Advanced AI & cybersecurity tools like Astra Animations AI, useless AI, Foster DoS Tool & Horizon  
+<!-- ================= CLOSING ================= -->
 
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+Building systems that combine security, intelligence, and real-world impact.
+</p>
