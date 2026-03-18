@@ -1,10 +1,21 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">Amit Kasbe</h1>
-<h3 align="center">Cybersecurity Engineer • AI Developer • Technology Builder</h3>
 
 <p align="center">
-Building systems at the intersection of security, intelligence, and creation
+Cybersecurity Engineer • AI Developer • Technology Builder
+</p>
+
+<p align="center">
+Building systems at the intersection of <b>Security</b>, <b>Intelligence</b>, and <b>Creation</b>
+</p>
+
+---
+
+<!-- ================= ANIMATED LINE ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Cybersecurity+%7C+AI+Systems+%7C+Builder;Network+Defense+%7C+Automation+%7C+Research;Creating+Future+Ready+Technology" />
 </p>
 
 ---
@@ -13,8 +24,8 @@ Building systems at the intersection of security, intelligence, and creation
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lucifer-0217&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Lucifer-0217?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/Lucifer-0217?label=Total%20Stars&style=flat" />
+  <img src="https://img.shields.io/github/followers/Lucifer-0217?style=flat" />
+  <img src="https://img.shields.io/github/stars/Lucifer-0217?style=flat" />
 </p>
 
 ---
@@ -23,34 +34,17 @@ Building systems at the intersection of security, intelligence, and creation
 
 ## About
 
-I am a cybersecurity-focused developer and AI builder working on systems across **network security, intelligent analysis, and AI-driven platforms**.
+I am a cybersecurity-focused developer and AI builder working on **network defense, intelligent systems, and AI-driven platforms**.
 
 My work focuses on:
 
-- Designing **real-time threat monitoring systems**
-- Building **AI-assisted analysis tools**
-- Developing **protocol-level security research frameworks**
-- Exploring **AI-powered creative technologies**
+- Real-time **threat monitoring systems**
+- **AI-assisted security and analysis tools**
+- **Protocol-level research** (SS7, SCTP)
+- **Automation and backend systems**
+- AI-powered **creative technologies**
 
-I aim to build systems that are **technically strong, scalable, and aligned with real-world applications**.
-
----
-
-<!-- ================= CONTACT ================= -->
-
-## Contact
-
-<p>
-📍 Mumbai, India <br>
-📧 amitkasbe2709@gmail.com <br>
-📱 +91 9322563493
-</p>
-
-<p>
-<a href="https://www.linkedin.com/in/amit-kasbe-a85896235/">LinkedIn</a> •
-<a href="https://github.com/Lucifer-0217">GitHub</a> •
-<a href="https://instagram.com/amit_kasbe_23">Instagram</a>
-</p>
+I focus on building systems that are **scalable, technically strong, and practical in real-world environments**.
 
 ---
 
@@ -58,8 +52,8 @@ I aim to build systems that are **technically strong, scalable, and aligned with
 
 ## Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,flask,mysql,sqlite,git" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,flask,mysql,sqlite,git,linux" />
 </p>
 
 ---
@@ -69,61 +63,61 @@ I aim to build systems that are **technically strong, scalable, and aligned with
 ## Featured Projects
 
 ### Wi-Fi Network Firewall
-Real-time wireless network monitoring and defense system.
-
-- Detects unauthorized access and suspicious activity  
-- Captures network-level insights  
-- Designed for continuous monitoring  
+- Real-time monitoring of wireless networks  
+- Detection of suspicious activity  
+- Continuous defense-oriented system design  
 
 ---
 
 ### Drishti Defence System
-Cyber defense framework with monitoring and intrusion detection.
-
 - Multi-service honeypot architecture  
-- Suspicious traffic detection  
-- Real-time alerting system  
+- Intrusion detection workflows  
+- Real-time alerting and monitoring  
 
 ---
 
 ### Trinetra
-Telecom protocol analysis and security research toolkit.
-
-- Focus on SS7 and SCTP workflows  
+- Telecom protocol research toolkit  
 - Packet-level inspection  
-- Designed for research and analysis  
+- Focused on SS7 & SCTP workflows  
 
 ---
 
 ### IVY – Neural Criminal Analysis AI
-AI system for detecting suspicious financial patterns.
-
-- Transaction analysis  
-- Pattern recognition  
-- Scalable intelligence workflows  
+- Financial anomaly detection system  
+- Pattern recognition workflows  
+- Scalable AI-based analysis  
 
 ---
 
 ### Astra Animations AI
-AI-driven visual storytelling and comic generation system.
-
+- AI-powered visual storytelling system  
 - Multi-panel generation  
-- Character consistency  
-- Cinematic layout experimentation  
+- Character consistency and cinematic flow  
 
 ---
 
-<!-- ================= STATS ================= -->
+<!-- ================= GITHUB STATS ================= -->
 
-## GitHub Insights
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucifer-0217&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucifer-0217&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucifer-0217&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucifer-0217&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer-0217&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer-0217&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+<!-- ================= SNAKE GRAPH ================= -->
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -132,11 +126,11 @@ AI-driven visual storytelling and comic generation system.
 
 ## Focus Areas
 
-- Cybersecurity infrastructure  
-- AI-assisted security systems  
-- Network & protocol analysis  
-- Backend systems and automation  
-- AI-driven creative platforms  
+- Cybersecurity Infrastructure  
+- AI-driven Security Systems  
+- Network & Protocol Analysis  
+- Backend Systems & Automation  
+- Creative AI Platforms  
 
 ---
 
@@ -149,8 +143,8 @@ AI-driven visual storytelling and comic generation system.
 
 ---
 
-<!-- ================= CLOSING ================= -->
+<!-- ================= FOOTER ================= -->
 
 <p align="center">
-Building systems that combine security, intelligence, and real-world impact.
+<b>Engineering the future through security, intelligence, and technology</b>
 </p>
