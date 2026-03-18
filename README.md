@@ -4,7 +4,7 @@
 
 # Amit Kasbe
 
-### Cybersecurity Engineer • AI Systems • Technology Builder
+### Cybersecurity Engineer • AI Developer • Technology Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+secure+systems+and+intelligent+technologies;Cybersecurity+%2B+AI+%2B+Real-world+impact;Focused+on+scalable+and+high-performance+systems" />
 
@@ -18,7 +18,7 @@
 
 ---
 
-## About
+## About Me
 
 Cybersecurity-focused developer and AI builder working across:
 
@@ -28,7 +28,37 @@ Cybersecurity-focused developer and AI builder working across:
 - Automation & Backend Engineering  
 - Creative AI Platforms (Astra Ecosystem)  
 
-I focus on building systems that are **secure, scalable, and real-world ready**.
+I focus on building systems that are:
+
+- Secure  
+- Scalable  
+- Real-world ready  
+- Technically strong  
+
+---
+
+## Contact
+
+- 📍 Mumbai, Maharashtra, India  
+- 📧 amitkasbe2709@gmail.com  
+- 📱 +91 9322563493  
+
+### Profiles  
+- LinkedIn: https://www.linkedin.com/in/amit-kasbe-a85896235/  
+- GitHub: https://github.com/Lucifer-0217  
+- Instagram: https://instagram.com/amit_kasbe_23  
+
+---
+
+## Core Skills
+
+- Cybersecurity & Network Defense  
+- Intrusion Detection & Threat Monitoring  
+- Firewall Development  
+- AI Systems & Automation  
+- Ethical Hacking & Security Research  
+- Protocol Analysis (SS7, SCTP – Research Focus)  
+- Backend Development (Python, Flask)  
 
 ---
 
@@ -42,22 +72,50 @@ I focus on building systems that are **secure, scalable, and real-world ready**.
 
 ---
 
-## Featured Work
+## Featured Projects
 
-### Wi-Fi Network Firewall
+### 🔐 Wi-Fi Network Firewall  
 Real-time wireless network monitoring and defense system.
 
-### Drishti Defence System
-Cyber defense framework with honeypots and intrusion detection.
+- Detects suspicious activity  
+- Captures network-level insights  
+- Supports alert-based workflows  
 
-### Trinetra
+---
+
+### 🛡 Drishti Defence System  
+Cyber defense framework for monitoring and intrusion detection.
+
+- Multi-service honeypot architecture  
+- Suspicious traffic detection  
+- Real-time alerts  
+
+---
+
+### 📡 Trinetra  
 Telecom protocol analysis and security research toolkit.
 
-### IVY — Neural Criminal Analysis AI
-AI-based system for detecting suspicious financial behavior.
+- Focus on SS7 and SCTP workflows  
+- Packet-level inspection  
+- Research-oriented design  
 
-### Astra Animations AI
+---
+
+### 🤖 IVY — Neural Criminal Analysis AI  
+AI-based analytical system for detecting financial anomalies.
+
+- Transaction analysis  
+- Pattern recognition  
+- Fraud detection workflows  
+
+---
+
+### 🎨 Astra Animations AI  
 AI-powered storytelling and comic generation system.
+
+- Multi-panel generation  
+- Character consistency  
+- Cinematic layouts  
 
 ---
 
@@ -106,12 +164,12 @@ AI-powered storytelling and comic generation system.
 
 ---
 
-## Focus
+## Focus Areas
 
 - Cybersecurity infrastructure  
 - AI-assisted systems  
-- Network & protocol analysis  
-- Backend and automation  
+- Network and protocol analysis  
+- Backend engineering and automation  
 - Creative AI ecosystems  
 
 ---
@@ -119,7 +177,13 @@ AI-powered storytelling and comic generation system.
 ## Certifications
 
 - Certified Ethical Hacker (CEH)  
-- OSCP — In Progress  
+- Offensive Security Certified Professional (OSCP) — In Progress  
+
+---
+
+## Philosophy
+
+> I build systems that combine security, intelligence, and real-world execution.
 
 ---
 
