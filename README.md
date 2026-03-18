@@ -1,10 +1,10 @@
-<!-- ================= HEADER ================= -->
+<!-- ========================= ULTRA ELITE V2 ========================= -->
 
 <div align="center">
 
 # Amit Kasbe
 
-### Cybersecurity Engineer • AI Developer • Technology Builder
+### Cybersecurity • AI Systems • Technology Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+secure+systems+and+intelligent+technologies;Cybersecurity+%2B+AI+%2B+Real-world+impact;Focused+on+scalable+and+high-performance+systems" />
 
@@ -18,47 +18,28 @@
 
 ---
 
-## About Me
+## About
 
 Cybersecurity-focused developer and AI builder working across:
 
-- Network Defense & Threat Monitoring  
-- AI-driven Analysis Systems  
-- Protocol & Traffic Research  
-- Automation & Backend Engineering  
-- Creative AI Platforms (Astra Ecosystem)  
+- **Network Defense & Threat Monitoring**  
+- **AI-driven Analysis Systems**  
+- **Protocol & Traffic Research**  
+- **Automation & Backend Engineering**  
+- **Creative AI Platforms (Astra Ecosystem)**  
 
-I focus on building systems that are:
-
-- Secure  
-- Scalable  
-- Real-world ready  
-- Technically strong  
+I focus on building systems that are **secure, scalable, and aligned with real-world applications**.
 
 ---
 
 ## Contact
 
-- 📍 Mumbai, Maharashtra, India  
-- 📧 amitkasbe2709@gmail.com  
-- 📱 +91 9322563493  
+- Mumbai, Maharashtra, India  
+- amitkasbe2709@gmail.com  
+- +91 9322563493  
 
-### Profiles  
-- LinkedIn: https://www.linkedin.com/in/amit-kasbe-a85896235/  
-- GitHub: https://github.com/Lucifer-0217  
-- Instagram: https://instagram.com/amit_kasbe_23  
-
----
-
-## Core Skills
-
-- Cybersecurity & Network Defense  
-- Intrusion Detection & Threat Monitoring  
-- Firewall Development  
-- AI Systems & Automation  
-- Ethical Hacking & Security Research  
-- Protocol Analysis (SS7, SCTP – Research Focus)  
-- Backend Development (Python, Flask)  
+**Profiles**  
+[LinkedIn](https://www.linkedin.com/in/amit-kasbe-a85896235/) • [GitHub](https://github.com/Lucifer-0217) • [Instagram](https://instagram.com/amit_kasbe_23)
 
 ---
 
@@ -72,50 +53,22 @@ I focus on building systems that are:
 
 ---
 
-## Featured Projects
+## Featured Work
 
-### 🔐 Wi-Fi Network Firewall  
-Real-time wireless network monitoring and defense system.
+### Wi-Fi Network Firewall
+Real-time wireless network defense system designed for monitoring, detection, and alert-based workflows.
 
-- Detects suspicious activity  
-- Captures network-level insights  
-- Supports alert-based workflows  
+### Drishti Defence System
+Cyber defense framework with honeypots, intrusion detection, and live monitoring capabilities.
 
----
+### Trinetra
+Telecom protocol research toolkit focused on inspection, parsing, and security analysis workflows.
 
-### 🛡 Drishti Defence System  
-Cyber defense framework for monitoring and intrusion detection.
+### IVY — Neural Criminal Analysis AI
+AI-driven analytical system for detecting suspicious financial behavior and anomaly patterns.
 
-- Multi-service honeypot architecture  
-- Suspicious traffic detection  
-- Real-time alerts  
-
----
-
-### 📡 Trinetra  
-Telecom protocol analysis and security research toolkit.
-
-- Focus on SS7 and SCTP workflows  
-- Packet-level inspection  
-- Research-oriented design  
-
----
-
-### 🤖 IVY — Neural Criminal Analysis AI  
-AI-based analytical system for detecting financial anomalies.
-
-- Transaction analysis  
-- Pattern recognition  
-- Fraud detection workflows  
-
----
-
-### 🎨 Astra Animations AI  
-AI-powered storytelling and comic generation system.
-
-- Multi-panel generation  
-- Character consistency  
-- Cinematic layouts  
+### Astra Animations AI
+AI-powered storytelling system focused on comic generation, cinematic panels, and visual consistency.
 
 ---
 
@@ -123,7 +76,7 @@ AI-powered storytelling and comic generation system.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Lucifer-0217&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Lucifer-0217&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucifer-0217&theme=tokyonight&hide_border=true" />
 
 <br>
@@ -148,28 +101,18 @@ AI-powered storytelling and comic generation system.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lucifer-0217&theme=onestar&no-frame=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Lucifer-0217&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 
 </div>
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/Lucifer-0217/Lucifer-0217/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## Focus Areas
+## Focus
 
 - Cybersecurity infrastructure  
 - AI-assisted systems  
 - Network and protocol analysis  
-- Backend engineering and automation  
+- Backend and automation  
 - Creative AI ecosystems  
 
 ---
@@ -177,13 +120,17 @@ AI-powered storytelling and comic generation system.
 ## Certifications
 
 - Certified Ethical Hacker (CEH)  
-- Offensive Security Certified Professional (OSCP) — In Progress  
+- OSCP — In Progress  
 
 ---
 
-## Philosophy
+## Contribution Snake
 
-> I build systems that combine security, intelligence, and real-world execution.
+<div align="center">
+
+![snake gif](https://github.com/Lucifer-0217/Lucifer-0217/blob/output/github-contribution-grid-snake-dark.sv
+
+</div>
 
 ---
 
