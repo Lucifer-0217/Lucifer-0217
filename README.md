@@ -1,10 +1,10 @@
-<!-- ========================= ULTRA ELITE V2 ========================= -->
+<!-- ================= HEADER ================= -->
 
 <div align="center">
 
 # Amit Kasbe
 
-### Cybersecurity • AI Systems • Technology Builder
+### Cybersecurity Engineer • AI Systems • Technology Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+secure+systems+and+intelligent+technologies;Cybersecurity+%2B+AI+%2B+Real-world+impact;Focused+on+scalable+and+high-performance+systems" />
 
@@ -22,24 +22,13 @@
 
 Cybersecurity-focused developer and AI builder working across:
 
-- **Network Defense & Threat Monitoring**  
-- **AI-driven Analysis Systems**  
-- **Protocol & Traffic Research**  
-- **Automation & Backend Engineering**  
-- **Creative AI Platforms (Astra Ecosystem)**  
+- Network Defense & Threat Monitoring  
+- AI-driven Analysis Systems  
+- Protocol & Traffic Research  
+- Automation & Backend Engineering  
+- Creative AI Platforms (Astra Ecosystem)  
 
-I focus on building systems that are **secure, scalable, and aligned with real-world applications**.
-
----
-
-## Contact
-
-- Mumbai, Maharashtra, India  
-- amitkasbe2709@gmail.com  
-- +91 9322563493  
-
-**Profiles**  
-[LinkedIn](https://www.linkedin.com/in/amit-kasbe-a85896235/) • [GitHub](https://github.com/Lucifer-0217) • [Instagram](https://instagram.com/amit_kasbe_23)
+I focus on building systems that are **secure, scalable, and real-world ready**.
 
 ---
 
@@ -56,19 +45,19 @@ I focus on building systems that are **secure, scalable, and aligned with real-w
 ## Featured Work
 
 ### Wi-Fi Network Firewall
-Real-time wireless network defense system designed for monitoring, detection, and alert-based workflows.
+Real-time wireless network monitoring and defense system.
 
 ### Drishti Defence System
-Cyber defense framework with honeypots, intrusion detection, and live monitoring capabilities.
+Cyber defense framework with honeypots and intrusion detection.
 
 ### Trinetra
-Telecom protocol research toolkit focused on inspection, parsing, and security analysis workflows.
+Telecom protocol analysis and security research toolkit.
 
 ### IVY — Neural Criminal Analysis AI
-AI-driven analytical system for detecting suspicious financial behavior and anomaly patterns.
+AI-based system for detecting suspicious financial behavior.
 
 ### Astra Animations AI
-AI-powered storytelling system focused on comic generation, cinematic panels, and visual consistency.
+AI-powered storytelling and comic generation system.
 
 ---
 
@@ -76,7 +65,7 @@ AI-powered storytelling system focused on comic generation, cinematic panels, an
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Lucifer-0217&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Lucifer-0217&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucifer-0217&theme=tokyonight&hide_border=true" />
 
 <br>
@@ -101,26 +90,9 @@ AI-powered storytelling system focused on comic generation, cinematic panels, an
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lucifer-0217&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Lucifer-0217&theme=onestar&no-frame=true&margin-w=10" />
 
 </div>
-
----
-
-## Focus
-
-- Cybersecurity infrastructure  
-- AI-assisted systems  
-- Network and protocol analysis  
-- Backend and automation  
-- Creative AI ecosystems  
-
----
-
-## Certifications
-
-- Certified Ethical Hacker (CEH)  
-- OSCP — In Progress  
 
 ---
 
@@ -131,6 +103,23 @@ AI-powered storytelling system focused on comic generation, cinematic panels, an
 ![snake gif](https://github.com/Lucifer-0217/Lucifer-0217/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+---
+
+## Focus
+
+- Cybersecurity infrastructure  
+- AI-assisted systems  
+- Network & protocol analysis  
+- Backend and automation  
+- Creative AI ecosystems  
+
+---
+
+## Certifications
+
+- Certified Ethical Hacker (CEH)  
+- OSCP — In Progress  
 
 ---
 
