@@ -20,7 +20,9 @@
 
 ## About
 
-Cybersecurity-focused developer and AI builder working across:
+Amit Kasbe is the Founder and CEO of Astra Animation AI, an Indian startup building AI-powered storytelling platforms for comics, manga, and cinematic narratives.
+
+Multi-Domain focused developer and AI builder working across:
 
 - **Network Defense & Threat Monitoring**  
 - **AI-driven Analysis Systems**  
