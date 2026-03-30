@@ -1,143 +1,58 @@
-<!-- ========================= ULTRA ELITE V2 ========================= -->
+# 👋 Hi, I'm Amit Kasbe
 
-<div align="center">
-
-# Amit Kasbe – Founder & CEO at Astra Animation AI
-
-### Cybersecurity • AI Systems • Technology Builder
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+secure+systems+and+intelligent+technologies;Cybersecurity+%2B+AI+%2B+Real-world+impact;Focused+on+scalable+and+high-performance+systems" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Lucifer-0217&style=for-the-badge&color=0f172a" />
-<img src="https://img.shields.io/github/followers/Lucifer-0217?style=for-the-badge&color=0f172a&labelColor=020617" />
-<img src="https://img.shields.io/github/stars/Lucifer-0217?style=for-the-badge&color=0f172a&labelColor=020617" />
-
-</div>
+🚀 **Founder & CEO @ Astra Animation AI**
+💻 Cybersecurity Researcher | AI Systems Developer
 
 ---
 
-## About
+## 🧠 About Me
 
-Amit Kasbe is the Founder and CEO of Astra Animation AI, an Indian startup building AI-powered storytelling platforms for comics, manga, and cinematic narratives.
+Amit Kasbe is the Founder and CEO of Astra Animation AI, an Indian AI startup building next-generation storytelling systems for comics, manga, webtoons, and cinematic content.
 
-Multi-Domain focused developer and AI builder working across:
-
-- **Network Defense & Threat Monitoring**  
-- **AI-driven Analysis Systems**  
-- **Protocol & Traffic Research**  
-- **Automation & Backend Engineering**  
-- **Creative AI Platforms (Astra Ecosystem)**  
-
-I focus on building systems that are **secure, scalable, and aligned with real-world applications**.
+He works at the intersection of **Artificial Intelligence, Cybersecurity, and Advanced Systems Engineering**, focusing on building scalable AI platforms and real-world security technologies.
 
 ---
 
-## Contact
+## 🔥 What I'm Building
 
-- Mumbai, Maharashtra, India  
-- amitkasbe2709@gmail.com  
-- +91 9322563493  
-
-**Profiles**  
-[LinkedIn](https://www.linkedin.com/in/amit-kasbe-a85896235/) • [GitHub](https://github.com/Lucifer-0217) • [Instagram](https://instagram.com/amit_kasbe_23)
+* 🎬 **Astra Animation AI** — AI-powered platform for generating consistent, long-form visual stories across multiple formats
+* 🛡️ **Trinetra** — Telecom-level interception & monitoring system using SS7/SIGTRAN
+* 🛰️ **Drishti** — Intelligent surveillance system designed for defense-oriented applications
+* 🤖 **IVY AI** — Neural Criminal Analysis system for fraud detection and financial intelligence
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,flask,mysql,sqlite,git,linux" />
-
-</div>
+* **Languages:** Python, JavaScript, C
+* **Domains:** AI/ML, Cybersecurity, Network Security, Telecom Security
+* **Tools:** Scapy, Wireshark, Flask, Linux
 
 ---
 
-## Featured Work
+## 📌 Featured Work
 
-### Wi-Fi Network Firewall
-Real-time wireless network defense system designed for monitoring, detection, and alert-based workflows.
-
-### Drishti Defence System
-Cyber defense framework with honeypots, intrusion detection, and live monitoring capabilities.
-
-### Trinetra
-Telecom protocol research toolkit focused on inspection, parsing, and security analysis workflows.
-
-### IVY — Neural Criminal Analysis AI
-AI-driven analytical system for detecting suspicious financial behavior and anomaly patterns.
-
-### Astra Animations AI
-AI-powered storytelling system focused on comic generation, cinematic panels, and visual consistency.
+🔹 Astra Animation AI
+🔹 Trinetra
+🔹 Drishti
+🔹 IVY AI
 
 ---
 
-## GitHub Performance
+## 📈 Vision
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Lucifer-0217&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucifer-0217&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer-0217&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+Building scalable AI systems and advanced security technologies from India, with a focus on real-world impact and long-term innovation.
 
 ---
 
-## Activity Graph
+## 🌐 Connect
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucifer-0217&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
+* LinkedIn: https://www.linkedin.com/in/amit-kasbe-a85896235
+* Company: https://www.linkedin.com/company/astra-animation-ai/
+* Website: https://www.astraanimation.in
 
 ---
 
-## Achievements
+## ⚡ Philosophy
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lucifer-0217&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
----
-
-## Focus
-
-- Cybersecurity infrastructure  
-- AI-assisted systems  
-- Network and protocol analysis  
-- Backend and automation  
-- Creative AI ecosystems  
-
----
-
-## Certifications
-
-- Certified Ethical Hacker (CEH)  
-- OSCP — In Progress  
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/Lucifer-0217/Lucifer-0217/blob/output/github-contribution-grid-snake-dark.sv
-
-</div>
-
----
-
-<div align="center">
-
-### Building secure systems, intelligent tools, and future-ready technology.
-
-</div>
+> Building systems that scale beyond limitations.
