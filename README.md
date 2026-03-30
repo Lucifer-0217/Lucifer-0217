@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Amit Kasbe
+# Amit Kasbe – Founder & CEO at Astra Animation AI
 
 ### Cybersecurity • AI Systems • Technology Builder
 
