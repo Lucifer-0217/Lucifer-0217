@@ -1,0 +1,608 @@
+
+<h2 class="sr-only">Amit Kasbe — GitHub Profile README rendered as an interactive portfolio</h2>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@400;600;700;800&display=swap');
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  .ak-root {
+    font-family: 'Syne', sans-serif;
+    background: #07080f;
+    color: #c9d1e8;
+    padding: 0;
+    min-height: 100vh;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .grid-bg {
+    position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+    background-image:
+      linear-gradient(rgba(110,64,201,0.07) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(110,64,201,0.07) 1px, transparent 1px);
+    background-size: 40px 40px;
+    pointer-events: none;
+  }
+
+  .scanline {
+    position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+    background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,0.03) 2px, rgba(0,0,0,0.03) 4px);
+    pointer-events: none;
+  }
+
+  .ak-inner { position: relative; z-index: 1; }
+
+  /* HERO */
+  .hero {
+    padding: 2.5rem 2rem 1.5rem;
+    border-bottom: 0.5px solid rgba(110,64,201,0.3);
+    position: relative;
+  }
+
+  .hero-tag {
+    font-family: 'Space Mono', monospace;
+    font-size: 10px;
+    color: #6e40c9;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 0.75rem;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .hero-tag::before {
+    content: '';
+    display: inline-block;
+    width: 6px; height: 6px;
+    background: #6e40c9;
+    border-radius: 50%;
+    animation: pulse 2s infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.5; transform: scale(0.8); }
+  }
+
+  .hero-name {
+    font-size: clamp(2.2rem, 5vw, 3.6rem);
+    font-weight: 800;
+    line-height: 1;
+    background: linear-gradient(135deg, #ffffff 0%, #a78bfa 50%, #6e40c9 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 0.5rem;
+    letter-spacing: -1px;
+  }
+
+  .hero-sub {
+    font-family: 'Space Mono', monospace;
+    font-size: 11px;
+    color: #8892b0;
+    letter-spacing: 1px;
+    margin-bottom: 1.5rem;
+  }
+
+  .hero-stats {
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+
+  .stat-item {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+
+  .stat-num {
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: #fff;
+    line-height: 1;
+  }
+
+  .stat-num span { color: #6e40c9; }
+
+  .stat-label {
+    font-family: 'Space Mono', monospace;
+    font-size: 9px;
+    color: #8892b0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+
+  .hero-corner {
+    position: absolute;
+    top: 1.5rem; right: 1.5rem;
+    width: 80px; height: 80px;
+    border: 0.5px solid rgba(110,64,201,0.4);
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+  }
+
+  .hero-corner::after {
+    content: '';
+    width: 50px; height: 50px;
+    border: 0.5px solid rgba(110,64,201,0.6);
+    border-radius: 50%;
+    position: absolute;
+    animation: spin 8s linear infinite;
+  }
+
+  @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+
+  .hero-corner-label {
+    font-family: 'Space Mono', monospace;
+    font-size: 7px;
+    color: #6e40c9;
+    text-align: center;
+    line-height: 1.3;
+    z-index: 1;
+  }
+
+  /* NAV TABS */
+  .nav-tabs {
+    display: flex;
+    border-bottom: 0.5px solid rgba(110,64,201,0.2);
+    background: rgba(7,8,15,0.8);
+    padding: 0 2rem;
+    gap: 0;
+    overflow-x: auto;
+  }
+
+  .nav-tab {
+    font-family: 'Space Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #8892b0;
+    padding: 0.85rem 1.25rem;
+    cursor: pointer;
+    border: none;
+    background: transparent;
+    border-bottom: 2px solid transparent;
+    transition: all 0.2s;
+    white-space: nowrap;
+  }
+
+  .nav-tab:hover { color: #a78bfa; }
+
+  .nav-tab.active {
+    color: #fff;
+    border-bottom-color: #6e40c9;
+  }
+
+  /* SECTIONS */
+  .section { padding: 1.5rem 2rem; display: none; }
+  .section.active { display: block; }
+
+  /* PROJECTS GRID */
+  .projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 1px;
+    background: rgba(110,64,201,0.15);
+    border: 0.5px solid rgba(110,64,201,0.15);
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 1.5rem;
+  }
+
+  .project-card {
+    background: #0d0e1a;
+    padding: 1.25rem;
+    transition: background 0.2s;
+    cursor: pointer;
+  }
+
+  .project-card:hover { background: #111225; }
+
+  .project-icon {
+    width: 36px; height: 36px;
+    border-radius: 8px;
+    display: flex; align-items: center; justify-content: center;
+    margin-bottom: 0.75rem;
+    font-size: 16px;
+  }
+
+  .project-name {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 0.3rem;
+  }
+
+  .project-desc {
+    font-size: 12px;
+    color: #8892b0;
+    line-height: 1.5;
+    margin-bottom: 0.75rem;
+  }
+
+  .tag-row { display: flex; gap: 6px; flex-wrap: wrap; }
+
+  .tag {
+    font-family: 'Space Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.5px;
+    padding: 3px 7px;
+    border-radius: 4px;
+    border: 0.5px solid;
+  }
+
+  .tag-purple { background: rgba(110,64,201,0.15); border-color: rgba(110,64,201,0.4); color: #a78bfa; }
+  .tag-blue { background: rgba(23,136,220,0.12); border-color: rgba(23,136,220,0.35); color: #60aff0; }
+  .tag-red { background: rgba(163,45,45,0.15); border-color: rgba(163,45,45,0.4); color: #e07070; }
+  .tag-amber { background: rgba(186,117,23,0.15); border-color: rgba(186,117,23,0.4); color: #f0a830; }
+  .tag-green { background: rgba(30,150,100,0.15); border-color: rgba(30,150,100,0.35); color: #4ecba0; }
+
+  /* RESEARCH BLOCK */
+  .research-block {
+    border: 0.5px solid rgba(110,64,201,0.3);
+    border-radius: 8px;
+    padding: 1.5rem;
+    background: linear-gradient(135deg, rgba(110,64,201,0.05) 0%, rgba(13,14,26,0) 100%);
+    margin-bottom: 1rem;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .research-block::before {
+    content: '⚛';
+    position: absolute;
+    right: 1.5rem; top: 1rem;
+    font-size: 3rem;
+    opacity: 0.06;
+  }
+
+  .research-title {
+    font-family: 'Space Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 3px;
+    color: #6e40c9;
+    text-transform: uppercase;
+    margin-bottom: 0.75rem;
+  }
+
+  .research-items { list-style: none; display: flex; flex-direction: column; gap: 8px; }
+
+  .research-item {
+    font-size: 13px;
+    color: #c9d1e8;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .research-item::before {
+    content: '';
+    width: 4px; height: 4px;
+    background: #6e40c9;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .progress-bar {
+    height: 2px;
+    background: rgba(110,64,201,0.2);
+    border-radius: 2px;
+    margin-top: 1.25rem;
+    overflow: hidden;
+  }
+
+  .progress-fill {
+    height: 100%;
+    width: 72%;
+    background: linear-gradient(90deg, #6e40c9, #a78bfa);
+    border-radius: 2px;
+    animation: load 1.5s ease forwards;
+    transform-origin: left;
+  }
+
+  @keyframes load { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+
+  .progress-label {
+    font-family: 'Space Mono', monospace;
+    font-size: 9px;
+    color: #8892b0;
+    margin-top: 4px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  /* TECH GRID */
+  .tech-category { margin-bottom: 1.25rem; }
+
+  .tech-cat-label {
+    font-family: 'Space Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 2px;
+    color: #6e40c9;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 0.5px solid rgba(110,64,201,0.2);
+  }
+
+  .tech-chips { display: flex; gap: 8px; flex-wrap: wrap; }
+
+  .tech-chip {
+    font-family: 'Space Mono', monospace;
+    font-size: 11px;
+    color: #c9d1e8;
+    background: rgba(255,255,255,0.04);
+    border: 0.5px solid rgba(255,255,255,0.1);
+    border-radius: 6px;
+    padding: 5px 10px;
+    transition: all 0.2s;
+    cursor: default;
+  }
+
+  .tech-chip:hover {
+    background: rgba(110,64,201,0.15);
+    border-color: rgba(110,64,201,0.4);
+    color: #a78bfa;
+  }
+
+  /* VISION SECTION */
+  .vision-quote {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #fff;
+    line-height: 1.7;
+    border-left: 2px solid #6e40c9;
+    padding-left: 1.25rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .vision-body {
+    font-size: 13px;
+    color: #8892b0;
+    line-height: 1.8;
+    margin-bottom: 1rem;
+  }
+
+  .connect-row { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 1rem; }
+
+  .connect-btn {
+    font-family: 'Space Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 1px;
+    padding: 8px 16px;
+    border-radius: 6px;
+    border: 0.5px solid rgba(110,64,201,0.5);
+    background: rgba(110,64,201,0.1);
+    color: #a78bfa;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    transition: all 0.2s;
+  }
+
+  .connect-btn:hover {
+    background: rgba(110,64,201,0.25);
+    border-color: rgba(110,64,201,0.8);
+  }
+
+  /* FOOTER */
+  .footer {
+    padding: 1rem 2rem;
+    border-top: 0.5px solid rgba(110,64,201,0.2);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .footer-left {
+    font-family: 'Space Mono', monospace;
+    font-size: 9px;
+    color: rgba(136,146,176,0.5);
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+  }
+
+  .footer-right {
+    font-family: 'Space Mono', monospace;
+    font-size: 9px;
+    color: rgba(110,64,201,0.6);
+  }
+
+  .ask-btn {
+    font-family: 'Space Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 1px;
+    padding: 6px 14px;
+    border-radius: 6px;
+    border: 0.5px solid rgba(110,64,201,0.4);
+    background: transparent;
+    color: #6e40c9;
+    cursor: pointer;
+    transition: all 0.2s;
+    margin-top: 0.5rem;
+  }
+
+  .ask-btn:hover { background: rgba(110,64,201,0.15); }
+</style>
+
+<div class="ak-root">
+  <div class="grid-bg"></div>
+  <div class="scanline"></div>
+  <div class="ak-inner">
+
+    <div class="hero">
+      <div class="hero-corner">
+        <div class="hero-corner-label">IND<br/>🇮🇳</div>
+      </div>
+      <div class="hero-tag">Founder & CEO · AI Systems Architect · Cybersecurity Researcher</div>
+      <div class="hero-name">Amit Kasbe</div>
+      <div class="hero-sub">Building systems that scale beyond limitations.</div>
+      <div class="hero-stats">
+        <div class="stat-item">
+          <div class="stat-num">39<span>+</span></div>
+          <div class="stat-label">Projects</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-num">4</div>
+          <div class="stat-label">Flagship</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-num">72<span>%</span></div>
+          <div class="stat-label">QM Research</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-num" style="font-size:1.1rem; padding-top:4px;">Astra<span> AI</span></div>
+          <div class="stat-label">Startup</div>
+        </div>
+      </div>
+    </div>
+
+    <nav class="nav-tabs" role="tablist">
+      <button class="nav-tab active" onclick="switchTab(this, 'projects')" role="tab" aria-selected="true">Projects</button>
+      <button class="nav-tab" onclick="switchTab(this, 'research')" role="tab" aria-selected="false">Research</button>
+      <button class="nav-tab" onclick="switchTab(this, 'tech')" role="tab" aria-selected="false">Arsenal</button>
+      <button class="nav-tab" onclick="switchTab(this, 'vision')" role="tab" aria-selected="false">Vision</button>
+    </nav>
+
+    <div id="projects" class="section active">
+      <div class="projects-grid">
+        <div class="project-card">
+          <div class="project-icon" style="background:rgba(110,64,201,0.15);">🎬</div>
+          <div class="project-name">Astra Animation AI</div>
+          <div class="project-desc">AI-powered visual storytelling platform solving character consistency across thousands of panels — comics, manga, webtoons, cinema.</div>
+          <div class="tag-row">
+            <span class="tag tag-purple">Gen AI</span>
+            <span class="tag tag-blue">Computer Vision</span>
+            <span class="tag tag-green">Narrative Engine</span>
+          </div>
+        </div>
+        <div class="project-card">
+          <div class="project-icon" style="background:rgba(163,45,45,0.15);">🛡️</div>
+          <div class="project-name">Trinetra</div>
+          <div class="project-desc">Telecom-level interception system operating at the SS7/SIGTRAN carrier infrastructure layer — below the application stack.</div>
+          <div class="tag-row">
+            <span class="tag tag-red">SS7/SIGTRAN</span>
+            <span class="tag tag-amber">SIGINT</span>
+            <span class="tag tag-red">Telecom Sec</span>
+          </div>
+        </div>
+        <div class="project-card">
+          <div class="project-icon" style="background:rgba(30,150,100,0.12);">🛰️</div>
+          <div class="project-name">Drishti</div>
+          <div class="project-desc">Multi-sensor fusion surveillance for defense and border security. Computer vision + behavioral analytics for real-time threat detection.</div>
+          <div class="tag-row">
+            <span class="tag tag-blue">Defense Tech</span>
+            <span class="tag tag-blue">Multi-Feed CV</span>
+            <span class="tag tag-green">Edge Deploy</span>
+          </div>
+        </div>
+        <div class="project-card">
+          <div class="project-icon" style="background:rgba(186,117,23,0.12);">🤖</div>
+          <div class="project-name">IVY AI</div>
+          <div class="project-desc">Neural criminal analysis. Processes transaction graphs, behavioral signals, and network topology to expose financial crimes in real time.</div>
+          <div class="tag-row">
+            <span class="tag tag-purple">Neural Networks</span>
+            <span class="tag tag-red">Fraud Detection</span>
+            <span class="tag tag-amber">FinIntel</span>
+          </div>
+        </div>
+      </div>
+      <button class="ask-btn" onclick="sendPrompt('Tell me more about Amit Kasbe\\'s projects and which one is most impressive')">Ask about these projects ↗</button>
+    </div>
+
+    <div id="research" class="section">
+      <div class="research-block">
+        <div class="research-title">Active Research · Quantum × Secure Systems</div>
+        <ul class="research-items">
+          <li class="research-item">Quantum-Resistant Cryptography (Post-Quantum / PQC)</li>
+          <li class="research-item">Quantum Key Distribution (QKD) Protocol Design</li>
+          <li class="research-item">Quantum Acceleration in AI Inference Pipelines</li>
+          <li class="research-item">Entanglement-Based Secure Communication Models</li>
+        </ul>
+        <div class="progress-bar"><div class="progress-fill"></div></div>
+        <div class="progress-label">
+          <span>Research Phase</span>
+          <span>~72%</span>
+        </div>
+      </div>
+      <button class="ask-btn" onclick="sendPrompt('Explain quantum-resistant cryptography and why it matters for cybersecurity')">Learn about PQC ↗</button>
+    </div>
+
+    <div id="tech" class="section">
+      <div class="tech-category">
+        <div class="tech-cat-label">Languages & Core</div>
+        <div class="tech-chips">
+          <span class="tech-chip">Python</span>
+          <span class="tech-chip">JavaScript</span>
+          <span class="tech-chip">C</span>
+        </div>
+      </div>
+      <div class="tech-category">
+        <div class="tech-cat-label">AI / ML</div>
+        <div class="tech-chips">
+          <span class="tech-chip">TensorFlow</span>
+          <span class="tech-chip">PyTorch</span>
+          <span class="tech-chip">OpenCV</span>
+          <span class="tech-chip">scikit-learn</span>
+        </div>
+      </div>
+      <div class="tech-category">
+        <div class="tech-cat-label">Security & Networks</div>
+        <div class="tech-chips">
+          <span class="tech-chip">Linux</span>
+          <span class="tech-chip">Wireshark</span>
+          <span class="tech-chip">Kali Linux</span>
+          <span class="tech-chip">Scapy</span>
+          <span class="tech-chip">SS7 / SIGTRAN</span>
+        </div>
+      </div>
+      <div class="tech-category">
+        <div class="tech-cat-label">Web & Backend</div>
+        <div class="tech-chips">
+          <span class="tech-chip">Flask</span>
+          <span class="tech-chip">Node.js</span>
+          <span class="tech-chip">Docker</span>
+        </div>
+      </div>
+    </div>
+
+    <div id="vision" class="section">
+      <div class="vision-quote">
+        "Building from India — not in spite of it, but because of it."
+      </div>
+      <p class="vision-body">
+        The next generation of AI platforms, defense-grade intelligence systems, and creative technology will not be monopolized by Silicon Valley. Every system built here — from Astra Animation AI to Trinetra to Drishti — is proof that world-class engineering is a location-independent discipline.
+      </p>
+      <p class="vision-body">
+        The mission: give creators, defenders, and analysts tools that give them unfair advantages. Build systems that governments need before startups know to ask for them. Engineer from first principles. Ship things that matter.
+      </p>
+      <div class="connect-row">
+        <a class="connect-btn" href="https://www.linkedin.com/in/amit-kasbe-a85896235" target="_blank">LinkedIn ↗</a>
+        <a class="connect-btn" href="https://www.astraanimation.in" target="_blank">Astra Animation AI ↗</a>
+        <a class="connect-btn" href="https://www.linkedin.com/company/astra-animation-ai/" target="_blank">Company Page ↗</a>
+      </div>
+    </div>
+
+    <div class="footer">
+      <div class="footer-left">amitKasbe · GitHub README</div>
+      <div class="footer-right">Hyderabad, India 🇮🇳</div>
+    </div>
+  </div>
+</div>
+
+<script>
+function switchTab(btn, id) {
+  document.querySelectorAll('.nav-tab').forEach(t => {
+    t.classList.remove('active');
+    t.setAttribute('aria-selected', 'false');
+  });
+  document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+  btn.classList.add('active');
+  btn.setAttribute('aria-selected', 'true');
+  document.getElementById(id).classList.add('active');
+}
+</script>
