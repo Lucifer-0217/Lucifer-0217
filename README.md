@@ -182,9 +182,9 @@ AI-powered fraud detection and financial intelligence. Processes transaction gra
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Lucifer-0217&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8892b0"/>
+<img height="175em" src="https://github-stats-extended.vercel.app/api?username=Lucifer-0217&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8892b0"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer-0217&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=8892b0"/>
+<img height="175em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lucifer-0217&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=8892b0"/>
 
 <br/><br/>
 
@@ -197,7 +197,7 @@ AI-powered fraud detection and financial intelligence. Processes transaction gra
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lucifer-0217&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=Lucifer-0217&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 </div>
 
 ---
