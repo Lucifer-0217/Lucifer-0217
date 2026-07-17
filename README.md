@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,30:1a1040,60:0d2137,100:0a0a1a&height=260&section=header&text=Amit%20Kasbe&fontSize=72&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=Founder%20%26%20CEO%20%E2%80%A2%20AI%20Systems%20Architect%20%E2%80%A2%20Cybersecurity%20Researcher&descAlignY=62&descSize=16&descColor=8892b0&stroke=6e40c9&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,30:1a1040,60:0d2137,100:0a0a1a&height=260&section=header&text=Amit%20Kasbe&fontSize=72&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=Founder%20and%20CEO%20%E2%80%A2%20AI%20Systems%20Architect%20%E2%80%A2%20Cybersecurity%20Researcher&descAlignY=62&descSize=16&descColor=8892b0&stroke=6e40c9&strokeWidth=2" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=680&height=45&lines=Building+Systems+That+Scale+Beyond+Limitations.;39+Projects+Completed.+Many+More+In+Progress.;AI+%7C+Cybersecurity+%7C+Quantum+Research;Founder+%40+Astra+Animation+AI+%F0%9F%9A%80" alt="Typing SVG" />
@@ -218,7 +218,7 @@ AI-powered fraud detection and financial intelligence. Processes transaction gra
 |:--|:--|
 | ✅ Projects Completed | **39** |
 | 🚀 Flagship Products | **4** |
-| 🧠 Domains | **AI · Cybersecurity · Defense · Fintech · Creative Tech** |
+| 🧠 Domains | **AI · Cybersecurity · Defense · Quantum Mechanics · Creative Tech** |
 | ⚛️ Active Research | **Quantum Mechanics × Secure Systems** |
 | 🏢 Startup | **Astra Animation AI** |
 | 🌍 Building From | **India 🇮🇳** |
