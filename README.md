@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=amitKasbe&label=Profile+Views&color=6e40c9&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Lucifer-0217&label=Profile+Views&color=6e40c9&style=for-the-badge" alt="profile views" />
 &nbsp;
 <a href="https://www.linkedin.com/in/amit-kasbe-a85896235">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -182,13 +182,13 @@ AI-powered fraud detection and financial intelligence. Processes transaction gra
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=amitKasbe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8892b0"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Lucifer-0217&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8892b0"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitKasbe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=8892b0"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer-0217&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=8892b0"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amitKasbe&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=d85a30&currStreakNum=ffffff&sideNums=8892b0&currStreakLabel=6e40c9&sideLabels=8892b0&dates=8892b0" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucifer-0217&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=d85a30&currStreakNum=ffffff&sideNums=8892b0&currStreakLabel=6e40c9&sideLabels=8892b0&dates=8892b0" width="55%"/>
 
 </div>
 
@@ -197,7 +197,7 @@ AI-powered fraud detection and financial intelligence. Processes transaction gra
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amitKasbe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Lucifer-0217&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 </div>
 
 ---
@@ -205,7 +205,7 @@ AI-powered fraud detection and financial intelligence. Processes transaction gra
 ## 📈 Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitKasbe&bg_color=0d1117&color=6e40c9&line=6e40c9&point=d85a30&area=true&area_color=6e40c9&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucifer-0217&bg_color=0d1117&color=6e40c9&line=6e40c9&point=d85a30&area=true&area_color=6e40c9&hide_border=true" width="100%"/>
 </div>
 
 ---
