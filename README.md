@@ -188,7 +188,7 @@ AI-powered fraud detection and financial intelligence. Processes transaction gra
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucifer-0217&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=d85a30&currStreakNum=ffffff&sideNums=8892b0&currStreakLabel=6e40c9&sideLabels=8892b0&dates=8892b0" width="55%"/>
+<img src="https://streak-stats.demolab.com/?user=Lucifer-0217&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=d85a30&currStreakNum=ffffff&sideNums=8892b0&currStreakLabel=6e40c9&sideLabels=8892b0&dates=8892b0" width="55%"/>
 
 </div>
 
@@ -197,7 +197,7 @@ AI-powered fraud detection and financial intelligence. Processes transaction gra
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=Lucifer-0217&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+  <img src="./trophy.svg" width="100%"/>
 </div>
 
 ---
